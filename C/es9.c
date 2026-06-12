@@ -16,6 +16,6 @@ scanf("%f",&p2.x);
 scanf("%f",&p2.y);
 psomma.x=p1.x+p2.x;
 psomma.y=p1.y+p2.y;
-printf("il punto somma ha coordinate \nx: %f\ny:%f\n\a\a\a",psomma.x,psomma.y);
+printf("il punto somma ha coordinate \nx: %f\ny:%f\n",psomma.x,psomma.y);
 return 0;
 }
